@@ -1,13 +1,13 @@
 let modInfo = {
-	name: "The 4+4 Tree",
-	id: "yes99",
-	author: "yo",
-	pointsName: "limones",
+	name: "The Game Seller Tree",
+	id: "trueselltrue",
+	author: "ArhercatNEO",
+	pointsName: "jobs",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
 	discordLink: "",
-	initialStartPoints: new Decimal (10), // Used for hard resets and new players
+	initialStartPoints: new Decimal (1), // Used for hard resets and new players
 	offlineLimit: 1,  // In hours
 }
 
